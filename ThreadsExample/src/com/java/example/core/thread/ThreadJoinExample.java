@@ -3,7 +3,7 @@ package com.java.example.core.thread;
  * This class is to test the join() worakablity.
  * In the below method comment and uncomment the t3.join(),t1.join() and t2.join()
  * and check how the code behave. 
- * @author abdus
+ * @author abdus mondal
  *
  */
 public class ThreadJoinExample {
